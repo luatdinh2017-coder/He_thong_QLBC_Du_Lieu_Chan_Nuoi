@@ -1,4 +1,5 @@
 # He_thong_QLBC_Du_Lieu_Chan_Nuoi
+----------------------------------------------------------------------------------------
 monthly-report-webapp/
 │
 ├── app/                        # Thư mục chính cho ứng dụng Flask
